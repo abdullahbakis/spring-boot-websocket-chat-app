@@ -10,8 +10,9 @@ Maven
 An IDE (such as IntelliJ IDEA)
 ### Installing
 Clone the repository to your local machine:
-Copy code
+
 git clone https://github.com/abdullahbakis/spring-boot-websocket-chat-app.git
+
 Import the project into your IDE as a Maven project.
 
 Run the project as a Spring Boot application.
